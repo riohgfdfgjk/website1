@@ -1,0 +1,188 @@
+p {
+    display: inline-flex;
+    color: rgb(131, 121, 109);
+}
+.click1{
+    margin-left: 400px;
+    border: none;
+    background-color: white;
+    color:rgba(0, 0, 255, 0.537);
+
+
+}
+.click2{
+    margin-left: 50px;
+    background-color:rgba(0, 0, 255, 0.537) ;
+}
+.title1{
+    font-family:'Montserrat',sans-serif;
+    font-size: 3.4em;
+    font-weight: 10px;
+    height:300px ;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: -160px;
+}
+.main_main{
+    font-family:'Montserrat',sans-serif;
+    font-size:2em;
+    width:500px;
+    margin-left: 1.8em;
+    
+}
+.button3{
+    display: inline-block;
+    padding-left:3.6em ;
+    padding-top: 2em;
+}
+.click3{
+    background-color: rgba(0, 0, 255, 0.537);
+}
+.button4{
+    display: inline-block;
+    padding-left:3.6em ;
+    padding-top: 2em;
+}
+.click4{
+    border: none;
+    background-color: white;
+    color: rgba(0, 0, 255, 0.537) ;
+}
+.image1{
+    display: inline-block;
+}
+.im1{
+    width: 420px;
+    height:419px;
+    padding-top: 30px;
+    padding-right:200px ;
+    /* padding-left: 50px;
+    padding-right: 20px; */
+    border-end-end-radius: 1000px;
+    box-shadow:20px 20px 6px 13px rgba(192, 177, 11, 0.632);
+}
+.main1{
+    display: inline-block;
+}
+.main{
+    height: 600px;
+    padding-left: 100px;
+}
+.marceting{
+padding-left: 43%;
+} 
+.marceting_big{
+    font-family:'Montserrat',sans-serif;
+    font-weight: 600;
+    align-content: center;
+} 
+.teleg{
+    border: none;
+    background-color: white;
+    font-weight: 700;
+    padding: 20px;
+    margin-left:-190px ;
+    content:'';
+    transform:translateY(-3px);
+}
+.Card{
+    border: none;
+    background-color: white;
+    font-weight: 700;
+    padding: 20px;
+    padding-left: 90px;
+}
+.nowintech{
+    border: none;
+    background-color: white;
+    font-weight: 700;
+    padding: 20px;
+    padding-left: 90px;
+}
+.focus{
+    border: none;
+    background-color: white;
+    font-weight: 700;
+    padding: 20px;
+    padding-left: 90px;
+}
+.energy{
+    padding-top: 200px;
+    padding-left: 100px;
+    display: inline-block;
+}
+.money{
+    padding-top: 200px;
+    padding-left: 100px;
+    display: inline-block;
+}
+.svoboda{
+    padding-top: 200px;
+    padding-left: 100px;
+    display: inline-block;
+}
+.main_sr{
+    margin-left: 100px;
+    margin-top:100px;
+    height: 694px; 
+    width: 1340px;
+    background-color: rgba(240, 241, 255, 0.611);
+}
+.mai_title{
+    padding:100px ;
+}
+.maincomputer{
+    padding-left: 836px;
+}
+.tex{
+    border: none;
+}
+.mainlow{
+    height:350px;
+    width: 1340px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top:300px;
+}
+.mainllow_title{
+    padding-left: 10px;
+}
+.main_correct{
+    padding: 150px;
+    padding-right: 100px;
+}
+.ret{
+    height:650px;
+    width: 1340px;
+    background-color: rgb(66, 82, 67);
+    margin-left: 20px;
+    margin-top:0px;
+}
+.ji{
+    margin-top:70px ;
+    margin: 40px;
+
+}
+.kj{
+    margin-left: 120px;
+}
+.fd{
+    margin-top:200px ;
+    margin-left:70px;
+
+}
+.dd{
+    width: 100%;
+    height: 700px;
+    background-color:rgb(48, 48, 63) ;
+    margin-top:100px;
+    margin-left:20px ;
+}
+.wer{
+    width: 100%;
+    height: 400px;
+    background-color:rgba(63, 58, 48, 0.642) ;
+    margin-top:100px;
+    margin-left:20px ;
+}
